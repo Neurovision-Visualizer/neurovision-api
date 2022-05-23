@@ -1,4 +1,4 @@
-# COMP3161-Final-Project
+# NeuroVision API
 
 ## Contribution 
 
